@@ -1,0 +1,45 @@
+{
+  "name": "firstgulptest",
+  "version": "1.0.0",
+  "description": "My first gulp example",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-cache": "^1.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^3.0.0",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamParlow/UnderWill.git"
+  },
+  "keywords": [
+    "JS",
+    "CSS",
+    "HTML",
+    "GULP",
+    "RESPONSIVE",
+    "LEARNING"
+  ],
+  "author": "William Parlow Nichelatti and Anderson Merten",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/WilliamParlow/UnderWill/issues"
+  },
+  "homepage": "https://github.com/WilliamParlow/UnderWill#readme"
+}
